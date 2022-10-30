@@ -1,0 +1,25 @@
+.container
+{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.boxses
+{
+display: flex;
+align-items: center;
+gap: 2rem;
+}
+.box
+{
+    width: 20rem;
+    height: 20rem;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.box img
+{
+    width: 50px;
+}
