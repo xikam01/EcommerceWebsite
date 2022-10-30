@@ -2,15 +2,17 @@
     display: flex;
     align-items: center;
     padding: 20px;
+    justify-content: space-around;
     
 }
 .form{
+    margin-top: 120px;
     text-align: center;
     width: 400px;
     transform: translateY(-80px);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 30px;
-    height: 340px;
+    height: 355px;
     
 }
 input{
@@ -37,5 +39,22 @@ h1{
 }
 
 textarea{
-    
+    height: 110px;
+    width: 100%;
+
+}
+textarea::placeholder{
+    padding: 10px;
+    outline: none;
+    border: 0;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    transition: all ease 0.9s;
+    cursor: pointer;
+}
+
+.image img{
+    width: 450px;
 }
