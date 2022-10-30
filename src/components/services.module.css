@@ -4,21 +4,75 @@
     height: auto;
     text-align: center;
     justify-content: center;
+    transform: translateY(3rem);
 }
+
+.container h1 
+{
+    color:orange;
+    background: #191919;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: poppins;
+    font-style: normal;
+    background: gray;
+    display: inline;
+}
+
 
 .boxses
 {
 display: flex;
 align-items: center;
 gap: 2rem;
+margin: 0 auto;
+justify-content: center;
+transform: translateY(5rem);
 }
 .box
 {
-    width: 20rem;
-    height: 20rem;
+    width: 14rem;
+    height: 12rem;
     text-align: center;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    justify-content: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: .3rem;
+    padding: .5rem;
+    transition: all 0.5s ease;
 }
+.box h5
+{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #191919;
+    transform: translateY(1rem);
+}
+.box p
+{
+  font-weight: 600;
+  font-size: 1rem;
+  font-family: poppins;
+  transform: translateY(1.5rem);
+}
+.box:hover
+{
+    width: 14rem;
+    height: 12rem;
+    text-align: center;
+    border-radius: .3rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: all 0.5s ease;
+}
+span
+{
+    color: orange;
+    font-weight: 600;
+    font-size: 1rem;
+    font-family: poppins;
+}
+
+
+
 .box img
 {
     width: 50px;
