@@ -1,0 +1,41 @@
+.flex{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    
+}
+.form{
+    text-align: center;
+    width: 400px;
+    transform: translateY(-80px);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 30px;
+    height: 340px;
+    
+}
+input{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 0;
+    border-bottom: 1px solid gray;
+    outline: none;
+}
+button{
+    width: 150px;
+    padding: 10px;
+    border: 0;
+    background-color: seagreen;
+    color: white; 
+    font-size: 18px;   
+}
+h1{
+    font-size: 42px;
+    color: dodgerblue;
+
+}
+
+textarea{
+    
+}
