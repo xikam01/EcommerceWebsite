@@ -13,14 +13,14 @@ const Services = () => {
       <h5>Lapton <span>hp</span></h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$400</span>
 </div>
 <div className={style.box}>
       <img src='/public/serv.png'></img>
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$50</span>
 </div>
 
 <div className={style.box}>
@@ -28,7 +28,7 @@ const Services = () => {
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$560</span>
 </div>
 
 <div className={style.box}>
@@ -36,7 +36,7 @@ const Services = () => {
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$70</span>
 </div>
 
 <div className={style.box}>
@@ -44,7 +44,7 @@ const Services = () => {
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$80</span>
 </div>
   </div>
 
@@ -55,7 +55,7 @@ const Services = () => {
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$90</span>
 </div>
 <div className={style.box}>
       <img src='/public/flash-2.png'></img>
@@ -69,7 +69,7 @@ const Services = () => {
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$30</span>
 </div>
 
 <div className={style.box}>
@@ -77,7 +77,7 @@ const Services = () => {
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$10</span>
 </div>
 
 <div className={style.box}>
@@ -85,7 +85,7 @@ const Services = () => {
       <h5>iphone</h5>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       <br/><br/>
-      <span>$500</span>
+      <span>$20</span>
 </div>
 
   </div>
