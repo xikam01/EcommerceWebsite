@@ -66,3 +66,35 @@
     font-weight: 500;
     transition: all 0.5s ease; 
 }
+@media screen and (max-width:768px) {
+    .flexes
+    {
+        display:flex;
+        flex-direction: column-reverse;
+    }
+    .image
+    {
+        display: none;
+    }
+    .text h1
+    {
+        font-size:1.5rem;
+        font-weight: 600;
+        color: #191919;
+    }
+    .text p
+    {
+        font-size: .9rem;
+        font-weight: 500;
+        font-family: poppins;
+        color: #191919;
+    }
+    .fce
+    {
+        padding: .4rem .8rem;
+        color: #191919;
+        color: whitesmoke;
+        font-size: 16px;
+        font-weight:500;
+    }
+}
