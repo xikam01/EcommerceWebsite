@@ -1,0 +1,419 @@
+.container
+{
+  width: 80%;
+  height: 70vh;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  transform: translateY(5rem);
+  background:#EBEBEB;
+  border-radius: 1rem;
+  padding: .2rem 1rem;
+}
+
+.code
+{
+    background: transparent;
+    width: 80%;
+    height: 18vh;
+    margin: 0 auto;
+    text-align: center;
+    transform: translateY(1rem);
+    display: block;
+    justify-content: center;
+}
+
+.code h2
+{
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: poppins;
+  font-style: normal;
+  transform: translateY(2rem);
+}
+.code h2 span
+{
+    color: orange;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+.code h3 
+{
+    font-size: .9rem;
+    font-weight: 600;
+    font-family: poppins;
+    transform: translateY(1.8rem);
+}
+.code h3 span
+{
+  color: orange;
+
+}
+
+.fle
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 40vh;
+    margin: 0 auto;
+}
+
+.Readingabout
+{
+    width: 50%;
+    height: auto;
+    text-align: right; 
+    transform: rotate(180deg);
+}
+.cercales
+{
+    width: 50%;
+    height: auto;
+    text-align: left;
+}
+
+.cer1
+{
+    width:6%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;
+    transition: all 0.5s ease;
+}
+.cer1:hover
+{
+    width:9%;
+    height:10px;
+    background:#f44336;
+    border-radius:4rem;
+    margin: 3px;
+    transition: all 0.5s ease;
+}
+.cer2
+{
+    width:10%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer2:hover
+{
+    width:15%;
+    height:10px;
+    background:#f44336;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer3
+{
+    width:15%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer3:hover
+{
+    width:20%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer4
+{
+    width:20%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer4:hover
+{
+    width:25%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer5
+{
+    width:25%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;   
+}
+.cer5:hover
+{
+    width:30%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer6
+{
+    width:30%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer6:hover
+{
+    width:35%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer7
+{
+    width:35%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+
+.cer7:hover
+{
+    width:40%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer8
+{
+    width:40%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer8:hover
+{
+    width:45%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer9
+{
+    width:45%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer9:hover
+{
+    width:50%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer10
+{
+    width:50%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer10:hover
+{
+    width:55%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer11
+{
+    width:55%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer11:hover
+{
+    width:60%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer12
+{
+    width:60%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer12:hover
+{
+    width:65%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer13
+{  
+     width:65%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer13:hover
+{
+    width:70%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer14
+{
+    width:70%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer14:hover
+{
+    width:75%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer15
+{
+    width:75%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer15:hover
+{
+    width:80%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer17
+{
+    width:80%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer17:hover
+{
+    width:85%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer18
+{
+    width:85%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer18:hover
+{
+    width:90%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer19
+{
+    width:90%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer5:hover
+{
+    width:95%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
+.cer20
+{
+    width:95%;
+    height:10px;
+    background: orange;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease; 
+}
+.cer20:hover
+{
+    width:100%;
+    height:10px;
+    background:#f33446;
+    border-radius:4rem;
+    margin: 3px;  
+    transition: all 0.5s ease;
+}
