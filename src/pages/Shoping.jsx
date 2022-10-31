@@ -48,6 +48,7 @@ const Shoping = () => {
 </div>
 
 <br/>
+
 <div className={style.boxses}>
 <div className={style.box}>
 <img src='/public/ageed5.png'></img>
@@ -88,6 +89,8 @@ const Shoping = () => {
 </div>
 
 </div>
+
+{/* responise */}
 
 
 </div>

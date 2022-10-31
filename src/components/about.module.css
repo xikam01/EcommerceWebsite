@@ -11,6 +11,10 @@
   padding: .2rem 1rem;
 }
 
+.container h1
+{
+    color: #f33446;
+}
 .code
 {
     background: transparent;
@@ -416,4 +420,12 @@
     border-radius:4rem;
     margin: 3px;  
     transition: all 0.5s ease;
+}
+
+@media screen and (max-width:768px) 
+{
+    .fle
+    {
+        display: none;
+    }
 }
